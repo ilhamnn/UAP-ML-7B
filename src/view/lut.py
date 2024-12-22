@@ -106,7 +106,7 @@ navigation = st.sidebar.radio("", ["Spector", "About", "Type"])  # Menghapus tek
 
 
 if navigation == "Spector":
-    st.header("Ayo Cari Tahu Jenis Telurmu 🗿")
+    st.header("Hey, Ayo Cari Tahu Jenis Telurmu 🔎")
     option = st.selectbox(
         label="Pilih Model",
         options=("VGG16", "MobileNetV2"),

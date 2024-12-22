@@ -125,3 +125,17 @@ MobileNetV2 menghasilkan metrik sempurna pada data uji dengan precision, recall,
 Grafik menunjukkan konvergensi yang sangat cepat, di mana training dan validation loss mendekati nol dalam beberapa epoch awal. Akurasi juga langsung mencapai 1.00 tanpa fluktuasi berarti.
 Hal ini mencerminkan efisiensi MobileNetV2 yang dirancang untuk kinerja optimal dengan arsitektur yang ringan.
 
+## Live Demo 
+
+[Link Streamlit](https://www.kaggle.com/datasets/gauravduttakiit/automated-egg-classification).
+
+## Tampilan
+
+### Homepage
+
+![hp](assets/rdm/hp.jpg)
+
+### Prediction Result
+
+![predict](assets/rdm/prd.jpg)
+
