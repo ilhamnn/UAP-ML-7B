@@ -127,7 +127,7 @@ Hal ini mencerminkan efisiensi MobileNetV2 yang dirancang untuk kinerja optimal 
 
 ## Live Demo 
 
-[Link Streamlit](https://www.kaggle.com/datasets/gauravduttakiit/automated-egg-classification).
+[Link Streamlit](https://uap-ml-7b.streamlit.app/).
 
 ## Tampilan
 
